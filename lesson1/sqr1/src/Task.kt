@@ -1,0 +1,1 @@
+fun sqr(x: Double) = x * x
