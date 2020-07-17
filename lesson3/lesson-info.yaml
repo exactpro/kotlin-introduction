@@ -1,0 +1,20 @@
+content:
+- factorial
+- isPrime
+- isPerfect
+- digitCountInNumber
+- digitNumber
+- fib
+- lcm
+- minDivisor
+- maxDivisor
+- isCoPrime
+- squareBetweenExists
+- collatzSteps
+- sin
+- cos
+- revert
+- isPalindrome
+- hasDifferentDigits
+- squareSequenceDigit
+- fibSequenceDigit
