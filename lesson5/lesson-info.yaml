@@ -1,0 +1,18 @@
+content:
+- shoppingListCost
+- filterByCountryCode
+- removeFillerWords
+- buildWordSet
+- buildGrades
+- containsIn
+- subtractOf
+- whoAreInBoth
+- mergePhoneBooks
+- averageStockPrice
+- findCheapestStuff
+- canBuildFrom
+- extractRepeats
+- hasAnagrams
+- propagateHandshakes
+- findSumOfTwo
+- bagPacking
