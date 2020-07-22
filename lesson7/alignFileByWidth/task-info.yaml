@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
+- name: input/width_in1.txt
+  visible: true
