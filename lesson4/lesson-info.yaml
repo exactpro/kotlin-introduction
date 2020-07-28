@@ -1,0 +1,23 @@
+content:
+- sqRoots
+- biRoots
+- negativeList
+- invertPositives
+- squares
+- squares1
+- isPalindrome
+- buildSumExample
+- abs
+- mean
+- center
+- times
+- polynom
+- accumulate
+- factorize
+- factorizeToString
+- convert
+- convertToString
+- decimal
+- decimalFromString
+- roman
+- russian

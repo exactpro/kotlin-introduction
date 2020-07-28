@@ -1,0 +1,15 @@
+content:
+- timeStrToSeconds
+- twoDigitStr
+- timeSecondsToStr
+- main
+- dateStrToDigit
+- dateDigitToStr
+- flattenPhoneNumber
+- bestLongJump
+- bestHighJump
+- plusMinus
+- firstDuplicateIndex
+- mostExpensive
+- fromRoman
+- computeDeviceCells
