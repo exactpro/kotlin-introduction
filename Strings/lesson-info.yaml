@@ -1,0 +1,19 @@
+content:
+- timeStrToSeconds_Example
+- twoDigitStr_Example
+- timeSecondsToStr_Example
+- main_Example
+- '#1C dateStrToDigit'
+- '#2C dateDigitToStr'
+- '#3C flattenPhoneNumber'
+- '#4C bestLongJump'
+- '#5D bestHighJump'
+- '#6D plusMinus'
+- '#7D firstDuplicateIndex'
+- '#8D mostExpensive'
+- '#9D fromRoman'
+- '#10E computeDeviceCells'
+- '#11B isPalindrome'
+- '#12D factorizeToString'
+- '#13D decimalFromString'
+- '#14D roman'

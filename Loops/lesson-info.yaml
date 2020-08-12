@@ -1,0 +1,20 @@
+content:
+- factorial_Example
+- isPrime_Example
+- isPerfect_Example
+- digitCountInNumber_Example
+- '#1B digitNumber'
+- '#2B fib'
+- '#3B lcm'
+- '#4B minDivisor'
+- '#5B maxDivisor'
+- '#6B isCoPrime'
+- '#7B squareBetweenExists'
+- '#8C collatzSteps'
+- '#9C sin'
+- '#10C cos'
+- '#11C revert'
+- '#12C isPalindrome'
+- '#13C hasDifferentDigits'
+- '#14D squareSequenceDigit'
+- '#15D fibSequenceDigit'
