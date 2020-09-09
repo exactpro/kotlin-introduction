@@ -5,10 +5,9 @@ summary: |-
   Created: Jul 9, 2020, 5:19:54 PM.
 programming_language: Kotlin
 content:
-- Simple_functions
+- Functions
 - Conditionals
 - Loops
 - Lists
-- Associative_arrays
+- Associative Arrays
 - Strings
-- Files

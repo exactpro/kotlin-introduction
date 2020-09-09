@@ -1,19 +1,19 @@
 content:
-- timeStrToSeconds_Example
-- twoDigitStr_Example
-- timeSecondsToStr_Example
-- main_Example
-- '#1C dateStrToDigit'
-- '#2C dateDigitToStr'
-- '#3C flattenPhoneNumber'
-- '#4C bestLongJump'
-- '#5D bestHighJump'
-- '#6D plusMinus'
-- '#7D firstDuplicateIndex'
-- '#8D mostExpensive'
-- '#9D fromRoman'
-- '#10E computeDeviceCells'
-- '#11B isPalindrome'
-- '#12D factorizeToString'
-- '#13D decimalFromString'
-- '#14D roman'
+- timeStrToSeconds (example)
+- twoDigitStr (example)
+- timeSecondsToStr (example)
+- main (example)
+- '#1 dateStrToDigit (normal)'
+- '#2 dateDigitToStr (normal)'
+- '#3 flattenPhoneNumber (normal)'
+- '#4 bestLongJump (normal)'
+- '#5 bestHighJump (hard)'
+- '#6 plusMinus (hard)'
+- '#7 firstDuplicateIndex (hard)'
+- '#8 mostExpensive (hard)'
+- '#9 fromRoman (hard)'
+- '#10 computeDeviceCells (expert)'
+- '#11 isPalindrome (easy)'
+- '#12 factorizeToString (hard)'
+- '#13 decimalFromString (hard)'
+- '#14 roman (hard)'

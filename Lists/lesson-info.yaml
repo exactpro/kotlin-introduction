@@ -1,19 +1,19 @@
 content:
-- sqRoots_Example
-- biRoots_Example
-- negativeList_Example
-- invertPositives_Example
-- squares_Example
-- squares1_Example
-- buildSum_Example
-- '#1B abs'
-- '#2B mean'
-- '#3C center'
-- '#4C times'
-- '#5C polynom'
-- '#6C accumulate'
-- '#7C factorize'
-- '#8C convert'
-- '#9D convertToString'
-- '#10C decimal'
-- '#11E russian'
+- sqRoots (example)
+- biRoots (example)
+- negativeList (example)
+- invertPositives (example)
+- squares (example)
+- squares1 (example)
+- buildSum (example)
+- '#1 abs (easy)'
+- '#2 mean (easy)'
+- '#3 center (normal)'
+- '#4 times (normal)'
+- '#5 polynom (normal)'
+- '#6 accumulate (normal)'
+- '#7 factorize (normal)'
+- '#8 convert (normal)'
+- '#9 convertToString (hard)'
+- '#10 decimal (normal)'
+- '#11 russian (expert)'

@@ -1,0 +1,18 @@
+content:
+- shoppingListCost (example)
+- filterByCountryCode (example)
+- removeFillerWords (example)
+- buildWordSet (example)
+- '#1 buildGrades (easy)'
+- '#2 containsIn (easy)'
+- '#3 subtractOf (easy)'
+- '#4 whoAreInBoth (easy)'
+- '#5 mergePhoneBooks (normal)'
+- '#6 averageStockPrice (normal)'
+- '#7 findCheapestStuff (normal)'
+- '#8 canBuildFrom (normal)'
+- '#9 extractRepeats (normal)'
+- '#10 hasAnagrams (normal)'
+- '#11 propagateHandshakes (hard)'
+- '#12 findSumOfTwo (hard)'
+- '#13 bagPacking (expert)'

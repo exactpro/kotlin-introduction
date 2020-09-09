@@ -1,20 +1,20 @@
 content:
-- factorial_Example
-- isPrime_Example
-- isPerfect_Example
-- digitCountInNumber_Example
-- '#1B digitNumber'
-- '#2B fib'
-- '#3B lcm'
-- '#4B minDivisor'
-- '#5B maxDivisor'
-- '#6B isCoPrime'
-- '#7B squareBetweenExists'
-- '#8C collatzSteps'
-- '#9C sin'
-- '#10C cos'
-- '#11C revert'
-- '#12C isPalindrome'
-- '#13C hasDifferentDigits'
-- '#14D squareSequenceDigit'
-- '#15D fibSequenceDigit'
+- factorial (example)
+- isPrime (example)
+- isPerfect (example)
+- digitCountInNumber (example)
+- '#1 digitNumber (easy)'
+- '#2 fib (easy)'
+- '#3 lcm (easy)'
+- '#4 minDivisor (easy)'
+- '#5  maxDivisor (easy)'
+- '#6 isCoPrime (easy)'
+- '#7 squareBetweenExists (easy)'
+- '#8 collatzSteps (normal)'
+- '#9 sin (normal)'
+- '#10 cos (normal)'
+- '#11 revert (normal)'
+- '#12 isPalindrome (normal)'
+- '#13 hasDifferentDigits (normal)'
+- '#14 squareSequenceDigit (hard)'
+- '#15 fibSequenceDigit (hard)'

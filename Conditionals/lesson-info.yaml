@@ -1,17 +1,17 @@
 content:
-- quadraticRootNumber_Example
-- gradeNotation_Example
-- minBiRoot_Example
-- pointInsideCircle_Example
-- '#1B ageDescription'
-- '#2B timeForHalfWay'
-- '#3B whichRookThreatens'
-- '#4B rookOrBishopThreatens'
-- '#5B triangleKind'
-- '#6С segmentLength'
-- '#7B isNumberHappy'
-- '#8B queenThreatens'
-- '#9B daysInMonth'
-- '#10C circleInside'
-- '#11C brickPasses'
-- '#12B gradeNotation'
+- quadraticRootNumber (example)
+- gradeNotation (example)
+- minBiRoot (example)
+- pointInsideCircle (example)
+- '#1 ageDescription (easy)'
+- '#2 timeForHalfWay (easy)'
+- '#3 whichRookThreatens (easy)'
+- '#4 rookOrBishopThreatens (easy)'
+- '#5 triangleKind (easy)'
+- '#6 segmentLength (easy)'
+- '#7 isNumberHappy (easy)'
+- '#8 queenThreatens (easy)'
+- '#9 daysInMonth (easy)'
+- '#10 circleInside (normal)'
+- '#11 brickPasses (normal)'
+- '#12 gradeNotation (easy)'

@@ -1,0 +1,15 @@
+content:
+- sqrInt (example)
+- sqrDouble (example)
+- discriminant (example)
+- quadraticEquationRoot (example)
+- quadraticRootProduct (example)
+- main (example)
+- '#1 seconds (trivial)'
+- '#2 lengthInMeters (trivial)'
+- '#3 angleInRadian (trivial)'
+- '#4 trackLength (trivial)'
+- '#5 thirdDigit (easy)'
+- '#6 travelMinutes (easy)'
+- '#7 accountInThreeYears (easy)'
+- '#8 numberRevert (easy)'
