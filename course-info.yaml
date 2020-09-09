@@ -1,8 +1,8 @@
-title: Introduction to Kotlin
-language: English
+title: Введение в Kotlin
+language: Russian
 summary: |-
-  Kotlin course.
-  Created: Jul 9, 2020, 5:19:54 PM.
+  Вводный курс по языку программирования Kotlin.
+  Версия 1.0.0
 programming_language: Kotlin
 content:
 - Functions
