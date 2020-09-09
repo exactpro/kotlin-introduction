@@ -1,0 +1,14 @@
+content:
+- alignFile
+- countSubstrings
+- sibilants
+- centerFile
+- alignFileByWidth
+- top20Words
+- transliterate
+- chooseLongestChaoticWord
+- markdownToHtmlSimple
+- markdownToHtmlLists
+- markdownToHtml
+- printMultiplicationProcess
+- printDivisionProcess
